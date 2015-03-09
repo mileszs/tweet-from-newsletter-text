@@ -1,0 +1,1 @@
+Given some text, spit out a tweet that includes @-mentions for links to twitter profiles in the text.
